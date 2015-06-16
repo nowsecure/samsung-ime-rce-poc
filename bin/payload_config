@@ -1,0 +1,75 @@
+{
+  "phones" : [
+     {
+       "ro.product.model": "SM-G900V",
+       "ro.build.id": "KTU84P",
+       "files": [
+                  {
+                     "targetFileLocation": "../../../../../../../../data/dalvik-cache/system@priv-app@DeviceTest.apk@classes.dex",
+                     "payloadFileLocation": "bin/dalvik-cache/SM-G900V_KTU84P.odex"
+                  },
+                  {
+                     "targetFileLocation": "../../../../../../../../../data/busybox",
+                     "payloadFileLocation": "bin/busybox"
+                  }
+                ]
+     },
+     {
+       "ro.product.model": "SM-G900V",
+       "ro.build.id": "KOT49H",
+       "files": [
+                  {
+                     "targetFileLocation": "../../../../../../../../data/dalvik-cache/system@priv-app@DeviceTest.apk@classes.dex",
+                     "payloadFileLocation": "bin/dalvik-cache/SM-G900V_KOT49H.odex"
+                  },
+                  {
+                     "targetFileLocation": "../../../../../../../../../data/busybox",
+                     "payloadFileLocation": "bin/busybox"
+                  }
+                ]
+     },
+     {
+       "ro.product.model": "SM-G900T",
+       "ro.build.id": "KOT49H",
+       "files": [
+                  {
+                     "targetFileLocation": "../../../../../../../../../../../data/dalvik-cache/system@priv-app@DeviceTest.apk@classes.dex",
+                     "payloadFileLocation": "bin/dalvik-cache/SM-G900T_KOT49H.odex"
+                  },
+                  {
+                     "targetFileLocation": "../../../../../../../../../../../../data/busybox",
+                     "payloadFileLocation": "bin/busybox"
+                  }
+                ]
+     },
+     {
+       "ro.product.model": "SCH-I545",
+       "ro.build.id": "KOT49H",
+       "files": [
+                  {
+                     "targetFileLocation": "../../../../../../../../../../data/dalvik-cache/system@priv-app@DeviceTest.apk@classes.dex",
+                     "payloadFileLocation": "bin/dalvik-cache/SCH-I545_KOT49H.odex"
+                  },
+                  {
+                     "targetFileLocation": "../../../../../../../../../../../data/busybox",
+                     "payloadFileLocation": "bin/busybox"
+                  }
+                ]
+     },
+     {
+       "ro.product.model": "SAMSUNG-SGH-I257",
+       "ro.build.id": "KOT49H",
+       "files": [
+                  {
+                     "targetFileLocation": "../../../../../../../../../../../../../../../../data/dalvik-cache/system@priv-app@DeviceTest.apk@classes.dex",
+                     "payloadFileLocation": "bin/dalvik-cache/SCH-I257_KOT49H.odex"
+                  },
+                  {
+                     "targetFileLocation": "../../../../../../../../../../../../../../../data/busybox",
+                     "payloadFileLocation": "bin/busybox"
+                  }
+                ]
+     }
+  ]
+}
+
